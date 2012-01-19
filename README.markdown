@@ -5,6 +5,12 @@ This skeleton application will get you started using Scala and Akka. Please run 
 
 The project was setup using IDEA with the Scala plugin. You can get a free evaluation version of IDEA at http://www.jetbrains.com/idea/download/index.html
 
+Alternatively, run from the command line using Apache Maven:
+
+    $ mvn test
+
+The first time you run this command, Maven will download the world, but after that it'll be quick. Please make sure to run that before you get to the Notman House, or you may have to wait a long time to get everything ready.
+
 Running from the command line
 =============================
 
