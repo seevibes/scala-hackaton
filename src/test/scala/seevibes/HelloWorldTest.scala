@@ -13,7 +13,7 @@ class HelloWorldTest extends Assertions {
 
     @Test
     def whenTwoAndThreeAreAdded_thenFiveIsExpected() {
-        expect(4) {
+        expect(5) {
             2 + 3
         }
     }
