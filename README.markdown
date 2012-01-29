@@ -9,6 +9,8 @@ Alternatively, run from the command line using Apache Maven:
 
     $ mvn test
 
+Expect one failure, as I wanted to let you see the failed test.
+
 The first time you run this command, Maven will download the world, but after that it'll be quick. Please make sure to run that before you get to the Notman House, or you may have to wait a long time to get everything ready.
 
 Running from the command line
